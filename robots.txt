@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salimsalimofficial.github.io/SALIM-DXN-STORE/sitemap.xml
